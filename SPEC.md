@@ -1,6 +1,6 @@
 # DPOM Specification
 
-**Version 0.1.0 · 2026-10-24 · Draft**
+**Version 0.1.1 · 2026-10-24 · Draft**
 
 Data · Prediction · Outcome · Measure. A landscape for applied machine learning
 in business, laid out so that the outcome loop can close.
@@ -49,8 +49,30 @@ observed outcome tied to the decision that preceded it.
 ### 3.4 Measure
 
 *To be developed.* What the region holds: attribution against a counterfactual at
-a stated confidence. What crosses its border back into Data and Prediction: a
-decision about the system itself.
+a stated confidence, and the fully loaded cost of producing the outcome. What
+crosses its border back into Data and Prediction: a decision about the system
+itself.
+
+Measure is two-sided by definition.
+
+**The return side.** What the decision returned, attributed against a
+counterfactual, at a stated confidence. This is the question most teams never
+answer.
+
+**The cost side.** What it cost, across the whole landscape, to produce that
+return: data acquisition and pipelines, model development, serving and
+inference, the people who build and run it, and the measurement and monitoring
+work itself. A model that lifts an outcome while consuming more than the lift is
+worth is a loss, and a one-sided measurement would call it a success.
+
+**The net.** Return less cost is the unit economics of the decision system. It is
+the quantity Manage acts on, and it is the only basis on which scale, fix, or
+retire can be decided rather than argued.
+
+Outcomes that are not denominated in money at the point of observation (risk
+avoided, a regulatory finding that did not happen, customer harm prevented) are
+translated into a comparable unit as a measurement step, with the translation
+and its assumptions recorded alongside the result.
 
 ## 4. The outcome loop
 
@@ -68,10 +90,13 @@ actor, the time, and the basis.
 ## 6. Measure, Monitor, Manage
 
 *To be developed.* Measure as the headline practice of the fourth region.
-Monitor as the supporting practice that keeps the system healthy over time.
-Manage as the supporting practice that turns measurement into a portfolio
-action: scale, fix, or retire. The failure modes when either support is
-mistaken for the headline.
+Monitor as the supporting practice that keeps the system healthy over time and
+supplies most of the cost side of measurement: compute, storage, latency,
+incident load, retraining frequency. Manage as the supporting practice that
+turns the net measurement into a portfolio action: scale, fix, or retire. The
+three link in one direction: Monitor supplies cost, Measure computes the net,
+Manage decides. The failure modes when either support is mistaken for the
+headline.
 
 ## 7. Minimum conformance
 
@@ -83,8 +108,18 @@ is running on a system. Draft:
 - [ ] Every decision is recorded with its basis.
 - [ ] The outcome quantity is defined before the system runs.
 - [ ] A counterfactual exists and attribution is computed against it.
+- [ ] The fully loaded cost of running the system is known and compared to the
+      measured return.
 - [ ] The measured result has a named owner and a scale / fix / retire path.
 
 ## 8. Glossary
 
-*To be developed.*
+*To be developed.* First entries:
+
+**Unit economics of a decision system.** The measured return attributable to a
+system's decisions, less the fully loaded cost of producing them, over a stated
+period. The quantity Manage acts on.
+
+**Fully loaded cost.** Every cost the landscape incurs to produce the outcome:
+data, development, serving, people, measurement, and monitoring. Not the
+inference bill alone.

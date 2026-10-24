@@ -31,8 +31,10 @@ outcome. The region ends at a recorded decision, not at a model output.
 cost, risk, retention, or whatever the decision was meant to move. The outcome
 belongs to the business, not to the model.
 
-**Measure.** Whether the outcome is attributable to the decision, against a
-counterfactual, at a stated confidence. This is the region most organizations
+**Measure.** Two questions. Whether the outcome is attributable to the
+decision, against a counterfactual, at a stated confidence. And what it cost,
+across the whole landscape, to produce that outcome. The net of the two is the
+unit economics of the decision system. This is the region most organizations
 never build, and it is the one that decides whether the work was applied or
 exploratory.
 
@@ -60,20 +62,22 @@ with its own record.
 **Measure, with Monitor and Manage beside it.** Measure is the headline, because
 it is what the business is owed. Two supporting practices sit around it.
 *Monitor* is the technical health of the system over time, the domain of
-MLOps. *Manage* is the portfolio action the measurement forces: scale, fix, or
-retire. Monitoring without measurement keeps a system healthy while it produces
-nothing. Measurement without management produces a report nobody acts on.
+MLOps, and it is also where most of the cost side of measurement comes from:
+compute, storage, latency, incident load. *Manage* is the portfolio action the
+net measurement forces: scale, fix, or retire. Monitoring without measurement
+keeps a system healthy while it produces nothing. Measurement without
+management produces a report nobody acts on.
 
 ## Status
 
-Version 0.1.0, draft. The framework text lives in [`SPEC.md`](SPEC.md); changes
+Version 0.1.1, draft. The framework text lives in [`SPEC.md`](SPEC.md); changes
 are tracked in [`CHANGELOG.md`](CHANGELOG.md).
 
 ## How to cite
 
 See [`CITATION.cff`](CITATION.cff). In prose: Kelley, C. (2026). *DPOM: Data,
 Prediction, Outcome, Measure. A landscape for applied machine learning in
-business.* Version 0.1.0.
+business.* Version 0.1.1.
 
 ## License
 
