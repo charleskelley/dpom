@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or build on DPOM, please cite it as below."
+type: software
+title: "DPOM: Data, Prediction, Outcome, Measure. A landscape for applied machine learning in business"
+authors:
+  - family-names: Kelley
+    given-names: Charles
+version: 0.1.0
+date-released: 2026-10-24
+license: CC-BY-4.0
+repository-code: "https://github.com/charleskelley/dpom"
+keywords:
+  - applied machine learning
+  - business outcomes
+  - decision systems
+  - outcome measurement
+  - causal inference
+  - the outcome loop
