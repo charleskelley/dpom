@@ -70,14 +70,14 @@ management produces a report nobody acts on.
 
 ## Status
 
-Version 0.1.1, draft. The framework text lives in [`SPEC.md`](SPEC.md); changes
+Version 0.2.0, draft. The framework text lives in [`SPEC.md`](SPEC.md); changes
 are tracked in [`CHANGELOG.md`](CHANGELOG.md).
 
 ## How to cite
 
 See [`CITATION.cff`](CITATION.cff). In prose: Kelley, C. (2026). *DPOM: Data,
 Prediction, Outcome, Measure. A landscape for applied machine learning in
-business.* Version 0.1.1.
+business.* Version 0.2.0.
 
 ## License
 

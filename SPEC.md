@@ -1,6 +1,6 @@
 # DPOM Specification
 
-**Version 0.1.1 · 2026-10-24 · Draft**
+**Version 0.2.0 · 2026-10-27 · Draft**
 
 Data · Prediction · Outcome · Measure. A landscape for applied machine learning
 in business, laid out so that the outcome loop can close.
@@ -14,6 +14,17 @@ DPOM describes the landscape an applied machine learning system occupies in a
 business and the path across it that produces a measurable outcome. It is
 technology-agnostic and applies equally to statistical models, machine
 learning, and generative systems whose outputs drive decisions.
+
+DPOM holds at two altitudes without changing shape. At the altitude of a team, a data
+science function runs the loop for the models and business units it supports: Data usually
+begins at a warehouse or feature store, and Measure asks whether each model's decisions paid
+for themselves. At the altitude of an organization, the same four regions span the business:
+Data from source systems to the stores that serve prediction, Prediction including
+quantitative analysis and the business rules and suppressions that gate it, Outcome as the
+profit and loss lines those decisions move, and Measure as attribution and activity-based
+costing that tie the decision portfolio to profitability. A definition, border, or
+conformance item that reads true at only one altitude is practice, not framework, and
+belongs in a team's own handbook.
 
 DPOM is not a model lifecycle, an MLOps reference architecture, or a software
 delivery process. It does not prescribe tools. It does not replace experiment

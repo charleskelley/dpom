@@ -89,3 +89,9 @@ $RECYCLE.BIN/
 *.tmp
 *.bak
 *.orig
+
+# ----------------------------------------------------------------------------
+# Local-only agent steering and settings (never committed)
+# ----------------------------------------------------------------------------
+CLAUDE.local.md
+.claude/settings.local.json
