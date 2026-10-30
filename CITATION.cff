@@ -8,6 +8,7 @@ authors:
 version: 0.2.1
 date-released: 2026-10-30
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23814523
 repository-code: "https://github.com/charleskelley/dpom"
 keywords:
   - applied machine learning

@@ -1,5 +1,7 @@
 # DPOM
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23814523.svg)](https://doi.org/10.5281/zenodo.23814523)
+
 **Data · Prediction · Outcome · Measure.**
 
 A landscape for applied machine learning in business, laid out so that the
