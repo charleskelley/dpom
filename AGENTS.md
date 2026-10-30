@@ -40,7 +40,9 @@ precise test (closing the loop), and a concession that scopes it.
 - **Four regions:** Data, Prediction, Outcome, Measure. Prediction ends at a *recorded
   decision*, not a model output. Measure is the headline fourth region and is **two-sided**:
   return attributed against a counterfactual at a stated confidence, less the fully loaded
-  cost of producing it; the net is the unit economics of the decision system.
+  cost of producing it; the net is the unit economics of the decision system. The outcome
+  is quantified in its own unit first (a score, a rate, a time); a stated proxy translates
+  it into money, and the proxy may be absent at first deployment.
 - **The outcome loop** is the path across the regions and the point of the whole thing. Entry
   condition: a decision the business has agreed to make. Exit condition: a measured result that
   changes what runs next (scale, fix, retire). Any missing step means an open loop.
@@ -57,6 +59,18 @@ precise test (closing the loop), and a concession that scopes it.
   P&L lines those decisions move, and Measure as attribution and activity-based costing that
   tie the decision portfolio to profitability. Any definition, border, or conformance item
   must read true at both altitudes. If it only holds at one, it is practice, not framework.
+- **The team view leads; the organizational view is a second view.** The core audience for
+  The Outcome Loop is DS/ML/AI leaders and engineers, and the primary diagram, the spec's
+  worked detail, and the first essays are written at the team altitude. The organizational
+  view (fully loaded data inputs from source systems, and the people and management cost that
+  integrating outcomes into lines of business creates) gets its own diagram later, as a
+  parallel track with explicit seams to the team view. Do not let organizational-altitude
+  needs expand or dilute the team view; note them for the second view instead. The
+  both-altitudes check above still applies to every definition, border, and conformance item.
+- **Outcome is the entry point.** The loop is drawn left to right, but it is entered at
+  Outcome: the business names the outcome it wants moved, then how it will be measured, and
+  only then does Data and Prediction work begin. The emphasis on Outcome in the diagram marks
+  the entry, not a ranking of the regions. Closing the loop starts continuous improvement.
 - **Framework here, practice elsewhere.** This repository holds the reference and the
   checklists. How a particular team runs it, with named technologies, applications, and
   procedures, is written in that team's handbook. Nothing here depends on any one team's shape,

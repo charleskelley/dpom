@@ -4,6 +4,25 @@ All notable changes to the DPOM specification are recorded here. The format
 follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions
 follow [Semantic Versioning](https://semver.org/).
 
+## [0.2.1] - 2026-10-30
+
+### Added
+
+- README: the landscape diagram (`assets/dpom-overview.svg`, with a dark variant and
+  PNG renders for GitHub) showing the four regions, the decision handoff, the outcome
+  loop closing over them, and the Monitor & Govern and Infrastructure bands beneath.
+  Light and dark versions switch with the reader's theme.
+- `design-palette.md`: the burnt orange and charcoal palette, shared with DecisionLedger.
+- AGENTS.md: the team view leads and the organizational view is a second view; Outcome is
+  the entry point to the loop.
+
+### Changed
+
+- Measure: the outcome is quantified in its own unit first, against the counterfactual,
+  with the attributable cost beside it. Translation to an economic unit is a separate
+  step with a stated proxy, and the proxy may be absent at first deployment. Replaces the
+  rule that non-money outcomes are translated as a measurement step.
+
 ## [0.2.0] - 2026-10-27
 
 ### Added

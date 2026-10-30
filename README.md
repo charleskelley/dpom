@@ -1,7 +1,16 @@
 # DPOM
 
-**Data · Prediction · Outcome · Measure.** A landscape for applied machine
-learning in business, laid out so that the outcome loop can close.
+**Data · Prediction · Outcome · Measure.**
+
+A landscape for applied machine learning in business, laid out so that the
+outcome loop can close.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dpom-overview-dark.png">
+    <img src="assets/dpom-overview-light.png" alt="The DPOM landscape: Data, Prediction, Outcome, and Measure, with the decision handoff between Prediction and Outcome, the outcome loop closing over the four regions, and Monitor &amp; Govern and Infrastructure beneath them" width="850">
+  </picture>
+</p>
 
 Most enterprise machine learning is exploration dressed as production. A model
 earns the word *applied* only when the loop closes: the decision it drove is
@@ -34,7 +43,9 @@ belongs to the business, not to the model.
 **Measure.** Two questions. Whether the outcome is attributable to the
 decision, against a counterfactual, at a stated confidence. And what it cost,
 across the whole landscape, to produce that outcome. The net of the two is the
-unit economics of the decision system. This is the region most organizations
+unit economics of the decision system. The outcome is quantified in its own
+unit first; a proxy for its economic value may come later, and until it does
+the net is a judgment with a known cost on one side. This is the region most organizations
 never build, and it is the one that decides whether the work was applied or
 exploratory.
 
@@ -70,14 +81,14 @@ management produces a report nobody acts on.
 
 ## Status
 
-Version 0.2.0, draft. The framework text lives in [`SPEC.md`](SPEC.md); changes
+Version 0.2.1, draft. The framework text lives in [`SPEC.md`](SPEC.md); changes
 are tracked in [`CHANGELOG.md`](CHANGELOG.md).
 
 ## How to cite
 
 See [`CITATION.cff`](CITATION.cff). In prose: Kelley, C. (2026). *DPOM: Data,
 Prediction, Outcome, Measure. A landscape for applied machine learning in
-business.* Version 0.2.0.
+business.* Version 0.2.1.
 
 ## License
 

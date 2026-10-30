@@ -1,6 +1,6 @@
 # DPOM Specification
 
-**Version 0.2.0 · 2026-10-27 · Draft**
+**Version 0.2.1 · 2026-10-30 · Draft**
 
 Data · Prediction · Outcome · Measure. A landscape for applied machine learning
 in business, laid out so that the outcome loop can close.
@@ -80,10 +80,15 @@ worth is a loss, and a one-sided measurement would call it a success.
 the quantity Manage acts on, and it is the only basis on which scale, fix, or
 retire can be decided rather than argued.
 
-Outcomes that are not denominated in money at the point of observation (risk
-avoided, a regulatory finding that did not happen, customer harm prevented) are
-translated into a comparable unit as a measurement step, with the translation
-and its assumptions recorded alongside the result.
+**The unit of the outcome.** Many outcomes are not denominated in money at the
+point of observation: a satisfaction score, a cycle time, a risk rate, a
+regulatory finding that did not happen. Measure quantifies the outcome in its
+own unit first, against the counterfactual, and sets the attributable cost
+beside it. Translation into an economic unit is a separate step, made with a
+stated proxy or rule of thumb whose assumptions are recorded alongside the
+result. The proxy may not exist when the system is first deployed. Until it
+does, the net is a judgment made with a quantified outcome on one side and a
+known cost on the other, and establishing the proxy is work the loop still owes.
 
 ## 4. The outcome loop
 

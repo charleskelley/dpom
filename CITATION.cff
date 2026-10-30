@@ -5,8 +5,8 @@ title: "DPOM: Data, Prediction, Outcome, Measure. A landscape for applied machin
 authors:
   - family-names: Kelley
     given-names: Charles
-version: 0.2.0
-date-released: 2026-10-27
+version: 0.2.1
+date-released: 2026-10-30
 license: CC-BY-4.0
 repository-code: "https://github.com/charleskelley/dpom"
 keywords:

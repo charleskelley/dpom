@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="138 80 1205 607" width="1205" height="607">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#8a97a1">
+      <g>
+        <path d="M 7.2 0 L 0 -2.7 L 0 2.7 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#e68a52">
+      <g>
+        <path d="M 7.2 0 L 0 -2.7 L 0 2.7 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" fill="none" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_82">
+        <title>Infrastructure</title>
+        <g id="Graphic_24">
+          <title>Shape</title>
+          <path d="M 149.54038 615.40024 L 1331.9856 615.40024 C 1337.5084 615.40024 1341.9856 619.8774 1341.9856 625.40024 L 1341.9856 675.40024 C 1341.9856 680.9231 1337.5084 685.4002 1331.9856 685.4002 L 149.54038 685.4002 C 144.01753 685.4002 139.54038 680.9231 139.54038 675.40024 L 139.54038 625.40024 C 139.54038 619.8774 144.01753 615.40024 149.54038 615.40024 Z" fill="#8a97a1" fill-opacity=".1"/>
+          <path d="M 149.54038 615.40024 L 1331.9856 615.40024 C 1337.5084 615.40024 1341.9856 619.8774 1341.9856 625.40024 L 1341.9856 675.40024 C 1341.9856 680.9231 1337.5084 685.4002 1331.9856 685.4002 L 149.54038 685.4002 C 144.01753 685.4002 139.54038 680.9231 139.54038 675.40024 L 139.54038 625.40024 C 139.54038 619.8774 144.01753 615.40024 149.54038 615.40024 Z" stroke="#8a97a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_81">
+          <title>Title</title>
+          <text transform="translate(679.263 622.89016)" fill="#e6eaed">
+            <tspan font-family="Outfit" font-size="20" fill="#e6eaed" x="0" y="20" xml:space="preserve">Infrastructure</tspan>
+          </text>
+        </g>
+        <g id="Graphic_85">
+          <title>Title</title>
+          <text transform="translate(473.746 652.17256)" fill="#8a97a1">
+            <tspan font-family="Outfit" font-size="16" fill="#8a97a1" x="0" y="16" xml:space="preserve">platform the landscape runs on; the billed cost of data, compute, and serving</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_78">
+        <title>Monitor &amp; Govern</title>
+        <g id="Line_34">
+          <title>Line Out</title>
+          <path d="M 1067.4429 568.2038 L 1228.9856 568.2038 L 1228.9856 447.7" marker-end="url(#FilledArrow_Marker)" stroke="#8a97a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_21">
+          <title>Shape</title>
+          <path d="M 149.54038 533.2038 L 1056.4429 533.2038 C 1061.9658 533.2038 1066.4429 537.68094 1066.4429 543.2038 L 1066.4429 593.2038 C 1066.4429 598.7266 1061.9658 603.2038 1056.4429 603.2038 L 149.54038 603.2038 C 144.01753 603.2038 139.54038 598.7266 139.54038 593.2038 L 139.54038 543.2038 C 139.54038 537.68094 144.01753 533.2038 149.54038 533.2038 Z" fill="#8a97a1" fill-opacity=".1"/>
+          <path d="M 149.54038 533.2038 L 1056.4429 533.2038 C 1061.9658 533.2038 1066.4429 537.68094 1066.4429 543.2038 L 1066.4429 593.2038 C 1066.4429 598.7266 1061.9658 603.2038 1056.4429 603.2038 L 149.54038 603.2038 C 144.01753 603.2038 139.54038 598.7266 139.54038 593.2038 L 139.54038 543.2038 C 139.54038 537.68094 144.01753 533.2038 149.54038 533.2038 Z" stroke="#8a97a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_84">
+          <title>Description</title>
+          <text transform="translate(570.22697 571.2234)" fill="#8a97a1">
+            <tspan font-family="Outfit" font-size="16" fill="#8a97a1" x="1.72" y="16" xml:space="preserve">health, drift, risk, audit, and the operational cost </tspan>
+          </text>
+        </g>
+        <g id="Graphic_77">
+          <title>Title</title>
+          <text transform="translate(662.233 542.1856)" fill="#e6eaed">
+            <tspan font-family="Outfit" font-size="20" fill="#e6eaed" x="6536993e-19" y="20" xml:space="preserve">Monitor &amp; Govern</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_76">
+        <title>Measure</title>
+        <g id="Graphic_6">
+          <title>Shape</title>
+          <path d="M 1130.9856 196 L 1326.9856 196 C 1335.2698 196 1341.9856 202.71573 1341.9856 211 L 1341.9856 414 C 1341.9856 422.28427 1335.2698 429 1326.9856 429 L 1130.9856 429 C 1122.7013 429 1115.9856 422.28427 1115.9856 414 L 1115.9856 211 C 1115.9856 202.71573 1122.7013 196 1130.9856 196 Z" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_10">
+          <title>Title</title>
+          <text transform="translate(1183.0256 220)" fill="#e6eaed">
+            <tspan font-family="Outfit" font-size="24" fill="#e6eaed" x="0" y="24" xml:space="preserve">Measure</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_72">
+        <title>Outcome</title>
+        <g id="Graphic_40">
+          <title>Line Text</title>
+          <text transform="translate(965.1949 465)" fill="#8a97a1">
+            <tspan font-family="Outfit" font-size="20" fill="#8a97a1" x="0" y="20" xml:space="preserve">Drift</tspan>
+          </text>
+        </g>
+        <g id="Line_33">
+          <title>Line Out</title>
+          <line x1="953.4429" y1="431" x2="953.4429" y2="513.06923" marker-end="url(#FilledArrow_Marker)" stroke="#8a97a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_5">
+          <title>Shape</title>
+          <path d="M 855.4429 196 L 1051.4429 196 C 1059.7272 196 1066.4429 202.71573 1066.4429 211 L 1066.4429 414 C 1066.4429 422.28427 1059.7272 429 1051.4429 429 L 855.4429 429 C 847.1586 429 840.4429 422.28427 840.4429 414 L 840.4429 211 C 840.4429 202.71573 847.1586 196 855.4429 196 Z" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+        <g id="Graphic_71">
+          <title>Subtitle</title>
+          <text transform="translate(914.0119 251.54294)" fill="#f0a474">
+            <tspan font-family="Outfit" font-size="14" fill="#f0a474" x="48316906e-20" y="14" xml:space="preserve">START HERE</tspan>
+          </text>
+        </g>
+        <g id="Graphic_69">
+          <title>Title</title>
+          <text transform="translate(904.1229 220)" fill="#e6eaed">
+            <tspan font-family="Outfit" font-size="24" fill="#e6eaed" x="0" y="24" xml:space="preserve">Outcome</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_74">
+        <title>Decision</title>
+        <g id="Graphic_83">
+          <title>Line Text</title>
+          <text transform="translate(748.7758 450.77704)" fill="#8a97a1">
+            <tspan font-family="Outfit" font-size="20" fill="#8a97a1" x="0" y="20" xml:space="preserve">Audit &amp;</tspan>
+            <tspan font-family="Outfit" font-size="20" fill="#8a97a1" x="1.72" y="45" xml:space="preserve">Replay</tspan>
+          </text>
+        </g>
+        <g id="Line_42">
+          <title>Line Out</title>
+          <line x1="738.5527" y1="369.52536" x2="738.5527" y2="513.06923" marker-end="url(#FilledArrow_Marker)" stroke="#8a97a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_18">
+          <title>Shape</title>
+          <path d="M 740.67405 257.85332 L 793.1994 310.37868 C 794.371 311.55025 794.371 313.44975 793.1994 314.62132 L 740.67405 367.1467 C 739.5025 368.31825 737.603 368.31825 736.4314 367.1467 L 683.90605 314.62132 C 682.7345 313.44975 682.7345 311.55025 683.90605 310.37868 L 736.4314 257.85332 C 737.603 256.68175 739.5025 256.68175 740.67405 257.85332 Z" fill="#14b8a6" fill-opacity=".1"/>
+          <path d="M 740.67405 257.85332 L 793.1994 310.37868 C 794.371 311.55025 794.371 313.44975 793.1994 314.62132 L 740.67405 367.1467 C 739.5025 368.31825 737.603 368.31825 736.4314 367.1467 L 683.90605 314.62132 C 682.7345 313.44975 682.7345 311.55025 683.90605 310.37868 L 736.4314 257.85332 C 737.603 256.68175 739.5025 256.68175 740.67405 257.85332 Z" stroke="#14b8a6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Graphic_73">
+          <title>Title</title>
+          <text transform="translate(703.223 300)" fill="#14b8a6">
+            <tspan font-family="Outfit" font-size="20" fill="#14b8a6" x="8668621e-19" y="20" xml:space="preserve">Decision</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_79">
+        <title>Prediction</title>
+        <g id="Graphic_39">
+          <title>Line Text</title>
+          <text transform="translate(534.9641 465)" fill="#8a97a1">
+            <tspan font-family="Outfit" font-size="20" fill="#8a97a1" x="0" y="20" xml:space="preserve">Drift</tspan>
+          </text>
+        </g>
+        <g id="Line_32">
+          <title>Line Out</title>
+          <line x1="523.66256" y1="430" x2="523.66256" y2="513.06923" marker-end="url(#FilledArrow_Marker)" stroke="#8a97a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_3">
+          <title>Shape</title>
+          <path d="M 425.66256 196 L 621.66256 196 C 629.9468 196 636.66256 202.71573 636.66256 211 L 636.66256 414 C 636.66256 422.28427 629.9468 429 621.66256 429 L 425.66256 429 C 417.3783 429 410.66256 422.28427 410.66256 414 L 410.66256 211 C 410.66256 202.71573 417.3783 196 425.66256 196 Z" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_66">
+          <title>Title</title>
+          <text transform="translate(469.06256 220)" fill="#e6eaed">
+            <tspan font-family="Outfit" font-size="24" fill="#e6eaed" x="35527137e-20" y="24" xml:space="preserve">Prediction</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_80">
+        <title>Data</title>
+        <g id="Graphic_38">
+          <title>Line Text</title>
+          <text transform="translate(265.32 465)" fill="#8a97a1">
+            <tspan font-family="Outfit" font-size="20" fill="#8a97a1" x="0" y="20" xml:space="preserve">Drift</tspan>
+          </text>
+        </g>
+        <g id="Line_31">
+          <title>Line Out</title>
+          <line x1="252.54038" y1="430" x2="252.54038" y2="513.06923" marker-end="url(#FilledArrow_Marker)" stroke="#8a97a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_2">
+          <title>Shape</title>
+          <path d="M 154.54038 196 L 350.5404 196 C 358.82465 196 365.5404 202.71573 365.5404 211 L 365.5404 414 C 365.5404 422.28427 358.82465 429 350.5404 429 L 154.54038 429 C 146.2561 429 139.54038 422.28427 139.54038 414 L 139.54038 211 C 139.54038 202.71573 146.2561 196 154.54038 196 Z" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_63">
+          <title>Title</title>
+          <text transform="translate(225.37238 220)" fill="#e6eaed">
+            <tspan font-family="Outfit" font-size="24" fill="#e6eaed" x="0" y="24" xml:space="preserve">Data</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_75">
+        <title>Outcome Loop</title>
+        <g id="Graphic_46">
+          <title>Shape</title>
+          <path d="M 643 81 L 852 81 C 860.2843 81 867 87.71573 867 96 L 867 153.57496 C 867 161.85924 860.2843 168.57496 852 168.57496 L 643 168.57496 C 634.7157 168.57496 628 161.85924 628 153.57496 L 628 96 C 628 87.71573 634.7157 81 643 81 Z" fill="#e68a52" fill-opacity=".05"/>
+          <path d="M 643 81 L 852 81 C 860.2843 81 867 87.71573 867 96 L 867 153.57496 C 867 161.85924 860.2843 168.57496 852 168.57496 L 643 168.57496 C 634.7157 168.57496 628 161.85924 628 153.57496 L 628 96 C 628 87.71573 634.7157 81 643 81 Z" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_57">
+          <title>Subtitle</title>
+          <text transform="translate(687.932 128.3237)" fill="#e68a52">
+            <tspan font-family="Outfit" font-size="16" fill="#e68a52" x="1.664" y="16" xml:space="preserve">scale • fix • retire </tspan>
+          </text>
+        </g>
+        <g id="Graphic_54">
+          <title>Title</title>
+          <text transform="translate(681.96 98.30631)" fill="#e6eaed">
+            <tspan font-family="Outfit" font-size="20" fill="#e6eaed" x="881073e-18" y="20" xml:space="preserve">Outcome Loop</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_27">
+        <line x1="366.5404" y1="312.5" x2="391.96256" y2="312.5" marker-end="url(#FilledArrow_Marker_2)" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_28">
+        <line x1="1068.4429" y1="312.5" x2="1097.2856" y2="312.5" marker-end="url(#FilledArrow_Marker_2)" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_29">
+        <line x1="637.66256" y1="312.5" x2="663.8274" y2="312.5" marker-end="url(#FilledArrow_Marker_2)" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_30">
+        <line x1="795.5781" y1="312.5" x2="820.7429" y2="312.5" marker-end="url(#FilledArrow_Marker_2)" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_48">
+        <path d="M 1228.9856 195 L 1228.9856 185 L 1229.233 145.8283 L 1229.233 124.78748 L 885.7 124.78748" marker-end="url(#FilledArrow_Marker_2)" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_49">
+        <path d="M 627 124.78748 L 523.6194 124.78748 L 523.6194 144.62131 L 523.66256 172.3 L 523.66256 177.3" marker-end="url(#FilledArrow_Marker_2)" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_50">
+        <path d="M 627 124.78748 L 252.4163 124.78748 L 252.54038 172.3 L 252.54038 177.3" marker-end="url(#FilledArrow_Marker_2)" stroke="#e68a52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_87">
+        <line x1="1228.9856" y1="615.40024" x2="1228.9856" y2="448.2456" stroke="#8a97a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_88">
+        <text transform="translate(172.54038 280)" fill="#8a97a1">
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="18" xml:space="preserve">Business records </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="41" xml:space="preserve">and signals, kept </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="64" xml:space="preserve">trustworthy enough </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="87" xml:space="preserve">to act on</tspan>
+        </text>
+      </g>
+      <g id="Graphic_89">
+        <text transform="translate(1240.2645 509.7001)" fill="#8a97a1">
+          <tspan font-family="Outfit" font-size="20" fill="#8a97a1" x="0" y="20" xml:space="preserve">Cost</tspan>
+        </text>
+      </g>
+      <g id="Graphic_90">
+        <text transform="translate(439.49384 280)" fill="#8a97a1">
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="18" xml:space="preserve">Data turned into </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="41" xml:space="preserve">decisions the </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="64" xml:space="preserve">business acts on, by </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="87" xml:space="preserve">any method from </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="110" xml:space="preserve">rules to large models</tspan>
+        </text>
+      </g>
+      <g id="Graphic_91">
+        <text transform="translate(869.2742 280)" fill="#8a97a1">
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="18" xml:space="preserve">The business result </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="41" xml:space="preserve">the organization has </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="64" xml:space="preserve">aligned on to create </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="87" xml:space="preserve">value, and what the </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="110" xml:space="preserve">decisions moved</tspan>
+        </text>
+      </g>
+      <g id="Graphic_92">
+        <text transform="translate(1134.8423 280)" fill="#8a97a1">
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="18" xml:space="preserve">The outcome quantified, </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="41" xml:space="preserve">in money or a stated </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="64" xml:space="preserve">proxy, against the </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="87" xml:space="preserve">counterfactual and the </tspan>
+          <tspan font-family="Outfit" font-size="18" fill="#8a97a1" x="0" y="110" xml:space="preserve">attributable cost</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
