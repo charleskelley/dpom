@@ -4,6 +4,19 @@ All notable changes to the DPOM specification are recorded here. The format
 follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions
 follow [Semantic Versioning](https://semver.org/).
 
+## [Unreleased]
+
+### Changed
+
+- README diagram: final text for the four region boxes (Data grounds decisions, Prediction is
+  any method from rules to large models, Outcome is the aligned result driven by recorded
+  decisions, Measure is the impact quantified via counterfactual attribution).
+
+### Added
+
+- `notes.md`: dated working insights captured while the framework is built out, each tagged
+  with its region and intended home. Not normative.
+
 ## [0.2.1] - 2026-10-30
 
 ### Added
