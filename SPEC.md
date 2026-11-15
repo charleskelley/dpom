@@ -1,6 +1,6 @@
 # DPOM Specification
 
-**Version 0.2.1 · 2026-10-30 · Draft**
+**Version 0.3.0 · 2026-11-14 · Draft**
 
 Data · Prediction · Outcome · Measure. A landscape for applied machine learning
 in business, laid out so that the outcome loop can close.
