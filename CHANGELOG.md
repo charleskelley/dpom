@@ -8,6 +8,11 @@ follow [Semantic Versioning](https://semver.org/).
 
 ### Changed
 
+- The outcome loop's exit has four verdicts: scale, sustain, fix, or retire. Sustain is
+  the recorded decision to run the system unchanged, so a loop whose measured net justifies
+  continuing closes like any other instead of drifting on without a verdict. The exit
+  condition reads "decides what runs next" rather than "changes" it. Diagram subtitle,
+  conformance checklist, and README updated to match.
 - README diagram: final text for the four region boxes (Data grounds decisions, Prediction is
   any method from rules to large models, Outcome is the aligned result driven by recorded
   decisions, Measure is the impact quantified via counterfactual attribution).

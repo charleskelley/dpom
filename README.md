@@ -59,7 +59,8 @@ The loop is the path across the landscape. It is the point of the whole thing.
 2. A prediction is produced and turned into a decision by an explicit policy.
 3. The decision and its basis are recorded.
 4. The outcome is observed and attributed against a counterfactual.
-5. The measured result changes what runs next: scale it, fix it, or retire it.
+5. The measured result decides what runs next: scale it, sustain it, fix it, or
+   retire it.
 
 If any step is missing, the loop is open, and the system is producing
 predictions rather than outcomes.
@@ -77,7 +78,8 @@ it is what the business is owed. Two supporting practices sit around it.
 *Monitor* is the technical health of the system over time, the domain of
 MLOps, and it is also where most of the cost side of measurement comes from:
 compute, storage, latency, incident load. *Manage* is the portfolio action the
-net measurement forces: scale, fix, or retire. Monitoring without measurement
+net measurement forces: scale, sustain, fix, or retire. Monitoring without
+measurement
 keeps a system healthy while it produces nothing. Measurement without
 management produces a report nobody acts on.
 

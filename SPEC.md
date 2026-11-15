@@ -77,8 +77,8 @@ work itself. A model that lifts an outcome while consuming more than the lift is
 worth is a loss, and a one-sided measurement would call it a success.
 
 **The net.** Return less cost is the unit economics of the decision system. It is
-the quantity Manage acts on, and it is the only basis on which scale, fix, or
-retire can be decided rather than argued.
+the quantity Manage acts on, and it is the only basis on which scale, sustain,
+fix, or retire can be decided rather than argued.
 
 **The unit of the outcome.** Many outcomes are not denominated in money at the
 point of observation: a satisfaction score, a cycle time, a risk rate, a
@@ -94,7 +94,8 @@ known cost on the other, and establishing the proxy is work the loop still owes.
 
 *To be developed.* The path across the four regions, its entry condition (a
 decision the business has agreed to make), its exit condition (a measured
-result that changes what runs next), and the definition of an open loop.
+result that decides what runs next: scale, sustain, fix, or retire), and the
+definition of an open loop.
 
 ## 5. The decision handoff
 
@@ -109,8 +110,10 @@ actor, the time, and the basis.
 Monitor as the supporting practice that keeps the system healthy over time and
 supplies most of the cost side of measurement: compute, storage, latency,
 incident load, retraining frequency. Manage as the supporting practice that
-turns the net measurement into a portfolio action: scale, fix, or retire. The
-three link in one direction: Monitor supplies cost, Measure computes the net,
+turns the net measurement into a portfolio action: scale, sustain, fix, or
+retire. Sustain is a verdict, not a default: the measured net justifies running
+the system unchanged, and that decision is recorded like the other three. The
+three practices link in one direction: Monitor supplies cost, Measure computes the net,
 Manage decides. The failure modes when either support is mistaken for the
 headline.
 
@@ -126,7 +129,7 @@ is running on a system. Draft:
 - [ ] A counterfactual exists and attribution is computed against it.
 - [ ] The fully loaded cost of running the system is known and compared to the
       measured return.
-- [ ] The measured result has a named owner and a scale / fix / retire path.
+- [ ] The measured result has a named owner and a scale / sustain / fix / retire path.
 
 ## 8. Glossary
 

@@ -13,7 +13,7 @@
       </g>
     </marker>
   </defs>
-  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill-opacity="1">
+  <g id="Canvas_1" fill-opacity="1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1">
     <title>Canvas 1</title>
     <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
@@ -233,8 +233,8 @@
         </g>
         <g id="Graphic_57">
           <title>Subtitle</title>
-          <text transform="translate(687.932 128.3237)" fill="#b85524">
-            <tspan font-family="Outfit" font-size="16" fill="#b85524" x="1.664" y="16" xml:space="preserve">scale • fix • retire </tspan>
+          <text transform="translate(659.012 128.3237)" fill="#b85524">
+            <tspan font-family="Outfit" font-size="16" fill="#b85524" x="1.664" y="16" xml:space="preserve">scale • sustain • fix • retire </tspan>
           </text>
         </g>
         <g id="Graphic_54">

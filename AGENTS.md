@@ -45,7 +45,8 @@ precise test (closing the loop), and a concession that scopes it.
   it into money, and the proxy may be absent at first deployment.
 - **The outcome loop** is the path across the regions and the point of the whole thing. Entry
   condition: a decision the business has agreed to make. Exit condition: a measured result that
-  changes what runs next (scale, fix, retire). Any missing step means an open loop.
+  decides what runs next (scale, sustain, fix, retire). Any missing step means an open
+  loop.
 - **Two things the landscape makes explicit:** the decision handoff (the border between
   Prediction and Outcome, with its own record), and Measure with Monitor and Manage beside it
   (Monitor supplies cost, Measure computes the net, Manage decides; they link in one direction).
